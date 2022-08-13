@@ -14,7 +14,8 @@ body{
     font-family: "Merriweather",serif;
     font-weight: 700;
     text-align: center;
-
+    background-image: cover;
+    bacground-repeat: no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
